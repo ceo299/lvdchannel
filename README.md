@@ -1,2 +1,16 @@
 # lvdchannel
-https://sites.google.com/d/16yrD4hODgXW594CBXbgWNO0aY092jDo-/p/1NUJ89CxRFaEmnZblNT1FPeNq_G60wJaB/edit
+{
+    "name": "UN",
+    "description": "Unichain",
+    "image": "ipfs://bafybeibn.../1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}
